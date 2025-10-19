@@ -1,12 +1,6 @@
-Build a cloud-init iso to setup system hostname and change the root password
-
 Example:
 
-Hostname: citest-1
-
-Username: root
-
-Password: redhat
+Build a cloud-init iso to setup system hostname and change the root password
 
 ```
 # dnf install -y xorriso

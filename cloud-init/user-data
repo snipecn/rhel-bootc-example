@@ -2,6 +2,6 @@
 
 chpasswd:
     list: |
-        root:redhat
+        root:[password]
     expire: false
 
